@@ -12,5 +12,5 @@ end
 counter = 1
 until counter > 11
   puts counter
-  counter = counter + 1
+  counter = counter + 1 #we can also use counter += 1
 end
