@@ -4,3 +4,9 @@ while counter < 11
   puts counter
   counter = counter + 1
 end
+# untill is the backword while
+counter = 1
+until counter > 11
+  puts counter
+  counter = counter + 1
+end
