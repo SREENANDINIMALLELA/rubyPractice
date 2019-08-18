@@ -23,4 +23,3 @@ end
     k += 1
    break if k ==31
  end
-   
