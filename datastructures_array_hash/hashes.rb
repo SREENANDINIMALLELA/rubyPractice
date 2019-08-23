@@ -1,6 +1,7 @@
 =begin
 hash is a collection wich stores the key and value pair
 Values are assigned to keys using "=>"
+hashes can be created in two ways 1 is lite
 =end
 
 my_hash = { "name" => "Eric",
@@ -17,7 +18,7 @@ puts my_hash["hungry?"]
 pets = Hash.new
 #adds stive is the key and value is cat
 pets["stive"]= "cat"
-pets["Luna"] = "cat"
+pets["Luna"] = "fish"
 puts pets["Luna"]
 
 #
